@@ -54,6 +54,5 @@ If you find our work useful, please cite our paper as:
 
 The database is distributed under the MIT license.
 ```
-
 ## Contact
 Chunyi Li, lcysyzxdxc@sjtu.edu.cn
