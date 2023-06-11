@@ -15,12 +15,13 @@ We believe that the fine-grained subjective scores in AGIQA-3K will inspire subs
 
 The **AGIQA-3K** database contains 2 types of files:
 
-A. file.zip (AI-Generated Images)
+A. AGIQA-3K.zip (AI-Generated Images)
 
 The panbaidu downloadlink can be accessed [here](https://pan.baidu.com/s/1_Cz9-aSzUDP-aEl3siIj6g). Extraction code: AIGC
+
 The googledrive downloadlink is [here](https://drive.google.com/file/d/1ObuOZ6YZqZuxe4oRlaf3kdOBlTRg2GE4/view?usp=sharing).
 
-B. AIGC_MOS_Zscore.xlsx (Prompt, perception, alignemnt)
+B. data.csv (Prompt, perception, alignemnt)
 
 Column1: Image name
 
