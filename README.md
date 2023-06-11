@@ -23,10 +23,15 @@ The googledrive downloadlink is [here](https://drive.google.com/file/d/1ObuOZ6YZ
 B. AIGC_MOS_Zscore.xlsx (Prompt, perception, alignemnt)
 
 Column1: Image name
+
 Column2: Input prompt for the generative model
+
 Column3-4: The two adj in the prompt. (10 adj in total)
+
 Column5: The style in the prompt. (5 style in total)
+
 Column6-7: Normalized MOS and STD for perception subjective score.
+
 Column8-9: Normalized MOS and STD for alignment subjective score.
 
 
@@ -50,4 +55,4 @@ The database is distributed under the MIT license.
 ```
 
 ## Contact
-Chunyi Li, ```lcysyzxdxc@sjtu.edu.cn```
+Chunyi Li, lcysyzxdxc@sjtu.edu.cn
