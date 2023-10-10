@@ -40,14 +40,13 @@ Column8-9: Normalized MOS and STD for alignment subjective score.
 
 If you find our work useful, please cite our paper as:
 ```
-@misc{li2023agiqa3k,
-      title={AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment}, 
-      author={Chunyi Li and Zicheng Zhang and Haoning Wu and Wei Sun and Xiongkuo Min and Xiaohong Liu and Guangtao Zhai and Weisi Lin},
-      year={2023},
-      eprint={2306.04717},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@ARTICLE{10262331,
+  author={Li, Chunyi and Zhang, Zicheng and Wu, Haoning and Sun, Wei and Min, Xiongkuo and Liu, Xiaohong and Zhai, Guangtao and Lin, Weisi},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment}, 
+  year={2023},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3319020}}
 ```
 
 ## 4. License
